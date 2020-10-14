@@ -1,0 +1,1 @@
+var tour = [["lunes","Madrid"],["Martes","Sevilla"],["Miercoles","Barcelona"],["jueves","Valencia"]];
